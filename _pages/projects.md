@@ -22,6 +22,8 @@ Pipeline multi-modèles combinant détection, comptage par densité et classific
 
 → [Voir la page projet](./_projets/bat_monitoring.md)       |      → [Tester la démo interactive](https://huggingface.co/spaces/ton-user/bat-demo)  
 
+[Voir la page projett](./_projets/bat_monitoring.md){: .btn .btn--primary}
+
 
 ## Détection et quantification de poissons marins par ADN environnemental (ADNe)    
 
