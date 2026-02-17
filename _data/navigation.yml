@@ -2,7 +2,7 @@ main:
   - title: "A propos de moi"
     url: /about/
   - title: "Projets"
-    url: /categories/
+    url: /projects/
   - title: "Publication"
     url: /publication/
   # - title: "About"
