@@ -1,10 +1,10 @@
-[← Retour aux projets](README.md)   
-[← Retour à l'accueil](../README.md)  
-
-
-# Détection et quantification de poissons marins par ADN environnemental (ADNe)
-![edna preview](../assets/img/edna-preview.jpg)
 ---
+title: "Détection et quantification de poissons marins par ADN environnemental (ADNe)"
+---
+
+![edna preview](../../assets/images/edna-preview.jpg)
+
+
 ## Aperçu
 
 **Domaine :** Écologie moléculaire & analyse quantitative  
@@ -12,7 +12,7 @@
 **Objectif principal :** Évaluer la capacité de l’ADNe à détecter et quantifier des poissons marins  
 **Impact clé :** 66 % des genres détectés en milieu semi-contrôlé
 
----
+
 
 ## Stack & compétences clés
 
@@ -26,7 +26,6 @@ R · Python · Bash · Illumina sequencing
 - Identification et analyse de biais méthodologiques  
 
 
---- 
 
 ## Contexte scientifique
 
@@ -40,7 +39,7 @@ L’unité développe notamment des outils permettant :
 
 Dans ce contexte, l’ADN environnemental (ADNe) constitue un outil émergent pour le suivi non invasif des communautés de poissons.
 
----
+
 
 ## Enjeu écologique
 
@@ -59,7 +58,7 @@ Cependant, plusieurs questions demeurent :
 - Peut-on relier le signal génétique à l’abondance réelle ?
 - Quels biais méthodologiques limitent l’interprétation ?
 
----
+
 
 ## Objectifs du projet
 
@@ -68,7 +67,7 @@ Deux axes principaux :
 1. Évaluer la capacité de l’ADNe à détecter des espèces de poissons marins dans un milieu semi-contrôlé (grand aquarium public, communautés connues).
 2. Tester de manière exploratoire une méthode alternative d’extraction et d’amplification visant à améliorer la quantification.
 
----
+
 
 # Résultats principaux
 
@@ -88,7 +87,7 @@ Les taux de détection varient selon :
 
 Les espèces rares et de faible biomasse sont moins détectées, ce qui confirme des tendances observées dans la littérature.
 
----
+
 
 ### Facteurs influençant la détection
 
@@ -101,7 +100,7 @@ L’analyse statistique met en évidence l’influence de :
 
 Certaines espèces présentes dans les aquariums n’ont pas été détectées malgré leur présence dans les bases de référence, illustrant les limites actuelles du métabarcoding.
 
----
+
 
 ### Quantification
 
@@ -109,7 +108,7 @@ La relation entre quantité d’ADN détectée et abondance réelle s’est rév
 
 La méthode expérimentale testée pour améliorer la quantification n’a pas apporté les gains attendus, soulignant les limites actuelles de l’ADNe pour estimer précisément les effectifs.
 
----
+
 
 # Apports du projet
 
@@ -122,7 +121,7 @@ Ce travail m’a permis de :
 
 L’ADNe apparaît comme un outil puissant pour la détection de la biodiversité, mais dont l’usage nécessite une compréhension fine des biais techniques et biologiques.
 
----
+
 
 # Détail méthodologique et compétences mobilisées
 
@@ -150,7 +149,6 @@ L’ADNe apparaît comme un outil puissant pour la détection de la biodiversit�
 - Interprétation écologique de signaux moléculaires
 - Esprit critique vis-à-vis des biais expérimentaux
 
----
 
 # Perspectives
 
@@ -162,7 +160,5 @@ Les travaux sur l’ADNe constituent un levier majeur pour :
 
 Ce projet s’inscrit dans la continuité de mon parcours : mobiliser des outils quantitatifs et technologiques au service de la compréhension et de la conservation du vivant.
 
----
 
-[← Retour aux projets](README.md)   
-[← Retour à l'accueil](../README.md)  
+[Retour aux projets](../projects.md){: .btn .btn--primary} 

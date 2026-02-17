@@ -1,11 +1,10 @@
-[← Retour aux projets](./README.md)  
-[← Retour à l'accueil](../README.md)  
-
-# Veille Scientifique Automatisée
-
-![veille preview](../assets/img/veille-preview.jpg)
-
 ---
+title: "Veille Scientifique Automatisée"
+---
+
+![veille preview](../../assets/images/veille-preview.jpg)
+
+
 
 ## Aperçu
 
@@ -14,7 +13,7 @@
 **Objectif principal :** produire automatiquement une veille thématique à partir de sources hétérogènes (RSS, blogs, articles techniques)  
 **Impact clé :** génération d’un rapport structuré (Markdown) avec résumés automatiques + envoi régulier (mail)  
 
----
+
 
 ## Stack & compétences clés
 
@@ -29,7 +28,6 @@ Python · pandas · transformers · PyTorch · feedparser · requests · Beautif
 - Automatisation (cron / planificateur Windows / GitHub Actions)  
 - Structuration d’un projet Python maintenable (config, logs, séparation des modules)  
 
----
 
 ## Contexte
 
@@ -37,8 +35,6 @@ Dans les domaines techniques et scientifiques, l’information évolue rapidemen
 
 Les outils de veille existants sont souvent rigides, peu personnalisables ou trop généralistes.  
 Ce projet est né d’un besoin simple : disposer d’un système maîtrisé, flexible et automatisable pour produire une veille structurée, adaptée à des thématiques choisies.
-
----
 
 ## Objectif
 
@@ -52,13 +48,12 @@ Concevoir un outil capable de :
 
 L’enjeu était de construire un pipeline simple, robuste et entièrement configurable.
 
----
 
 ## Exemple du rendu
 
 ![Exemple de rapport](../assets/img/apercu_veille_auto.png)
 
----
+
 
 ## Approche
 
@@ -81,7 +76,7 @@ Le projet repose sur une architecture modulaire organisée en plusieurs étapes 
 
 L’ensemble est configurable via des fichiers YAML, ce qui permet d’adapter facilement les sources, la profondeur de recherche ou le format de sortie.
 
----
+
 
 ## Ce que montre ce projet
 
@@ -91,7 +86,7 @@ L’ensemble est configurable via des fichiers YAML, ce qui permet d’adapter f
 - Génération automatisée de livrables reproductibles (format stable, templating)  
 - Structuration propre d’un projet Python (config, logs, modules, exécution planifiée)  
 
----
+
 
 ## Limites et points d’attention
 
@@ -99,15 +94,13 @@ L’ensemble est configurable via des fichiers YAML, ce qui permet d’adapter f
 - Les performances et la robustesse du scraping varient selon la structure des sites (risque de pages non parsables).  
 - La quantification “qualité” d’un résumé reste en partie subjective : l’outil vise surtout la rapidité de lecture et la priorisation.
 
----
+
 
 ## Code source
 
 Le projet complet, avec documentation détaillée et instructions d’installation, est disponible ici :
 
-→ [Voir le repository](https://github.com/Apichevin/veille_automatique)
+[Voir le repository](https://github.com/Apichevin/veille_automatique){: .btn .btn--info}  
 
----
 
-[← Retour aux projets](./README.md)  
-[← Retour à l'accueil](../README.md)  
+[Retour aux projets](../projects.md){: .btn .btn--primary}

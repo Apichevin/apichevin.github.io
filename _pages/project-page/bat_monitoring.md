@@ -3,7 +3,7 @@ permalink: /projects/project-page
 title: "Détection automatique de chiroptères par intelligence artificielle"
 ---
 
-![bat preview](../assets/img/bat-preview.jpg)
+![bat preview](../../assets/images/bat-preview.jpg)
 
 
 ## Aperçu
@@ -204,5 +204,4 @@ L’ensemble du projet est détaillé dans un article scientifique structuré (m
 
 ---
 
-[← Retour aux projets](README.md)   
-[← Retour à l'accueil](../README.md)  
+[Retour aux projets](../projects.md){: .btn .btn--primary}   

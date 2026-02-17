@@ -19,7 +19,7 @@ Pipeline multi-modèles combinant détection, comptage par densité et classific
 - Sélection dynamique via Random Forest  
 
 [Voir la page projet](./project-page/bat_monitoring.md){: .btn .btn--primary}
-[Tester la démo interactive](https://huggingface.co/spaces/ton-user/bat-demo){: .btn}
+[Tester la démo interactive](https://huggingface.co/spaces/ton-user/bat-demo){: .btn .btn--primary}
 
 
 ## Détection et quantification de poissons marins par ADN environnemental (ADNe)    
@@ -46,7 +46,8 @@ Outil Python modulaire permettant de collecter, résumer et structurer automatiq
 - Génération Markdown  
 - Automatisation  
 
-→ [Voir la page projet](./_projets/veille_automatique.md){: .btn .btn--primary}       |     → [Voir le code](https://github.com/Apichevin/veille_automatique){: .btn}
+[Voir la page projet](./_projets/veille_automatique.md){: .btn .btn--primary}
+[Voir le code](https://github.com/Apichevin/veille_automatique){: .btn .btn--primary}
 
 
 ## Projets à venir  
