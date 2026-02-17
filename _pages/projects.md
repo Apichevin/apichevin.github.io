@@ -46,7 +46,7 @@ Outil Python modulaire permettant de collecter, résumer et structurer automatiq
 - Génération Markdown  
 - Automatisation  
 
-[Voir la page projet](./_projets/veille_automatique.md){: .btn .btn--primary}
+[Voir la page projet](./project-page/veille_automatique.md){: .btn .btn--primary}
 [Voir le code](https://github.com/Apichevin/veille_automatique){: .btn .btn--primary}
 
 

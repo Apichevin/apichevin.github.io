@@ -200,7 +200,7 @@ Random Forest (sélection dynamique du meilleur estimateur)
 
 L’ensemble du projet est détaillé dans un article scientifique structuré (méthodologie, métriques, comparaisons de modèles).
 
-→ [Consulter le manuscrit (PDF)](../assets/pdf/Adaptive_Deep_Learning_for_Automated_Detection_Density_Estimation_and_Species_Identification_of_Bats.pdf)
+[Consulter le manuscrit (PDF)](../assets/pdf/Adaptive_Deep_Learning_for_Automated_Detection_Density_Estimation_and_Species_Identification_of_Bats.pdf){: .btn .btn--info}    
 
 ---
 
