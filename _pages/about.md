@@ -3,6 +3,10 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Je travaille à l’interface entre écologie et data.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Ma formation initiale en biodiversité et écologie m’a permis de comprendre les dynamiques des écosystèmes, les contraintes de terrain et les enjeux liés à la protection du vivant. Très vite, l’analyse de données est devenue l’outil central de mon travail : modéliser, tester, comparer, interpréter.
+
+J’ai choisi d’approfondir cette dimension technique pour maîtriser pleinement les outils de la data science et de l’intelligence artificielle. Aujourd’hui, je conçois des pipelines d’analyse complets, de la structuration des données à la modélisation, avec une attention particulière à la robustesse et à l’adaptation aux contextes réels.
+
+Ce qui m’intéresse : mettre la data au service de l'environnement pour mieux comprendre, suivre et protéger les écosystèmes.

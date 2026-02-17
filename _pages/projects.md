@@ -1,6 +1,6 @@
 ---
 permalink: /projects/
-title: "Projet"
+title: "Projets"
 ---
 
 [← Retour à l'accueil](../index.md)  
@@ -15,7 +15,7 @@ Chaque fiche détaille le contexte, la méthodologie et les choix techniques.
 ## Détection automatique de chiroptères par intelligence artificielle
 ### Computer Vision pour le suivi des chiroptères
 
-![bat preview](../assets/img/bat-preview.jpg)
+![bat preview](../assets/images/bat-preview.jpg)
 
 Pipeline multi-modèles combinant détection, comptage par densité et classification d’espèces à partir d’images réelles.
 
@@ -31,7 +31,7 @@ Pipeline multi-modèles combinant détection, comptage par densité et classific
 ## Détection et quantification de poissons marins par ADN environnemental (ADNe)
 ### Bioinformatique & modélisation écologique
 
-![edna preview](../assets/img/edna-preview.jpg)
+![edna preview](../assets/images/edna-preview.jpg)
 
 Analyse de données eDNA pour évaluer la capacité du metabarcoding à détecter et quantifier des assemblages de poissons marins.
 
@@ -46,7 +46,7 @@ Analyse de données eDNA pour évaluer la capacité du metabarcoding à détecte
 ## Veille Scientifique Automatisée  
 ### Pipeline NLP & génération de rapports
 
-![veille preview](../assets/img/veille-preview.jpg)
+![veille preview](../assets/images/veille-preview.jpg)
 
 Outil Python modulaire permettant de collecter, résumer et structurer automatiquement une veille thématique à partir de flux RSS.
 

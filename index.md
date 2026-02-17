@@ -5,7 +5,6 @@
 layout: single
 author_profile: true
 ---
-Profil
 Je travaille à l’interface entre écologie et data.
 
 Ma formation initiale en biodiversité et écologie m’a permis de comprendre les dynamiques des écosystèmes, les contraintes de terrain et les enjeux liés à la protection du vivant. Très vite, l’analyse de données est devenue l’outil central de mon travail : modéliser, tester, comparer, interpréter.
