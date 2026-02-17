@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About"
+title: "Présentation"
 ---
 
 Je travaille à l’interface entre écologie et data.

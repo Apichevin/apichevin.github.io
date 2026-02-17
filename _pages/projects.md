@@ -3,19 +3,14 @@ permalink: /projects/
 title: "Projets"
 ---
 
-[← Retour à l'accueil](../index.md)  
-
-# Projets
-
 Les projets présentés ici illustrent mon travail à l’interface entre data science et sciences du vivant.  
 Chaque fiche détaille le contexte, la méthodologie et les choix techniques.
 
 ---
 
-## Détection automatique de chiroptères par intelligence artificielle
-### Computer Vision pour le suivi des chiroptères
+## Détection automatique de chiroptères par intelligence artificielle   
 
-![bat preview](../assets/images/bat-preview.jpg)
+![bat preview](../assets/images/bat-preview.jpg)    
 
 Pipeline multi-modèles combinant détection, comptage par densité et classification d’espèces à partir d’images réelles.
 
@@ -25,11 +20,10 @@ Pipeline multi-modèles combinant détection, comptage par densité et classific
 - Sélection dynamique via Random Forest  
 
 
-→ [Voir la fiche projet](./bat_monitoring.md)       |      → [Tester la démo interactive](https://huggingface.co/spaces/ton-user/bat-demo)
+→ [Voir la page projet](./_projets/bat_monitoring.md)       |      → [Tester la démo interactive](https://huggingface.co/spaces/ton-user/bat-demo)  
 
 
-## Détection et quantification de poissons marins par ADN environnemental (ADNe)
-### Bioinformatique & modélisation écologique
+## Détection et quantification de poissons marins par ADN environnemental (ADNe)    
 
 ![edna preview](../assets/images/edna-preview.jpg)
 
@@ -39,12 +33,10 @@ Analyse de données eDNA pour évaluer la capacité du metabarcoding à détecte
 - GLMM et analyses multivariées  
 - Traitement de données haut débit  
 
-→ [Voir la page projet](./edna_metabarcoding.md)
+→ [Voir la page projet](/_pages/_projets/edna_metabarcoding.md)
 
----
 
-## Veille Scientifique Automatisée  
-### Pipeline NLP & génération de rapports
+## Veille Scientifique Automatisée    
 
 ![veille preview](../assets/images/veille-preview.jpg)
 
@@ -55,14 +47,11 @@ Outil Python modulaire permettant de collecter, résumer et structurer automatiq
 - Génération Markdown  
 - Automatisation  
 
-→ [Voir la page projet](./veille_automatique.md)       |     → [Voir le code](https://github.com/Apichevin/veille_automatique)
+→ [Voir la page projet](./_projets/veille_automatique.md)       |     → [Voir le code](https://github.com/Apichevin/veille_automatique)
 
 ---
 
-## Projets à venir
+## Projets à venir  
 
 Developpement d'un outils de reconnaissance d'espèce sur pièges photo
 
-
-
-[← Retour à l'accueil](../index.md)  
