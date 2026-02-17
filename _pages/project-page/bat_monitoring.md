@@ -1,10 +1,11 @@
-[← Retour aux projets](README.md)   
-[← Retour à l'accueil](../README.md)  
+---
+permalink: /projects/project-page
+title: "Détection automatique de chiroptères par intelligence artificielle"
+---
 
-# Détection automatique de chiroptères par intelligence artificielle
 ![bat preview](../assets/img/bat-preview.jpg)
 
----
+
 ## Aperçu
 
 **Domaine :** Computer Vision appliquée à la conservation  

@@ -6,10 +6,9 @@ title: "Projets"
 Les projets présentés ici illustrent mon travail à l’interface entre data science et sciences du vivant.  
 Chaque fiche détaille le contexte, la méthodologie et les choix techniques.
 
----
 
-## Détection automatique de chiroptères par intelligence artificielle   
 
+## Détection automatique de chiroptères par intelligence artificielle    
 ![bat preview](../assets/images/bat-preview.jpg)    
 
 Pipeline multi-modèles combinant détection, comptage par densité et classification d’espèces à partir d’images réelles.
@@ -19,10 +18,8 @@ Pipeline multi-modèles combinant détection, comptage par densité et classific
 - Swin Transformer  
 - Sélection dynamique via Random Forest  
 
-
-→ [Voir la page projet](./_projets/bat_monitoring.md)       |      → [Tester la démo interactive](https://huggingface.co/spaces/ton-user/bat-demo)  
-
-[Voir la page projett](./_projets/bat_monitoring.md){: .btn .btn--primary}
+[Voir la page projet](./project-page/bat_monitoring.md){: .btn .btn--primary}
+[Tester la démo interactive](https://huggingface.co/spaces/ton-user/bat-demo){: .btn}
 
 
 ## Détection et quantification de poissons marins par ADN environnemental (ADNe)    
@@ -35,7 +32,7 @@ Analyse de données eDNA pour évaluer la capacité du metabarcoding à détecte
 - GLMM et analyses multivariées  
 - Traitement de données haut débit  
 
-→ [Voir la page projet](/_pages/_projets/edna_metabarcoding.md)
+[Voir la page projet](./project-page/edna_metabarcoding.md){: .btn .btn--primary}
 
 
 ## Veille Scientifique Automatisée    
@@ -49,9 +46,8 @@ Outil Python modulaire permettant de collecter, résumer et structurer automatiq
 - Génération Markdown  
 - Automatisation  
 
-→ [Voir la page projet](./_projets/veille_automatique.md)       |     → [Voir le code](https://github.com/Apichevin/veille_automatique)
+→ [Voir la page projet](./_projets/veille_automatique.md){: .btn .btn--primary}       |     → [Voir le code](https://github.com/Apichevin/veille_automatique){: .btn}
 
----
 
 ## Projets à venir  
 
