@@ -3,16 +3,18 @@ title: "Détection automatique de chiroptères par intelligence artificielle"
 excerpt: "Pipeline multi-modèles : détection, comptage par densité et classification d’espèces à partir d’images réelles."
 header:
     image: /assets/images/bat-preview.jpg
-    teaser: /assets/images/bat-illustration.jpg
+    teaser: /assets/images/bat-illustration.png
 sidebar : 
-  - title: "stack"
-    image: /assets/images/python-logo.png
-    image_alt: "logo"
+  - title: "Stack"
     text: "python"
-    image: /assets/images/python-logo.png
-    image_alt: "logo"
-    text: "python"
-  - title: "Compétence"
+    #image: /assets/images/python-logo.png
+    #image_alt: "logo"
+    tag: 
+        - python
+        - YOLO
+        - Pytorch
+        - Swin Transformer
+  - title: "Compétences"
     text: "Computer vision"
 read_time: true
 ---
@@ -192,6 +194,6 @@ L’ensemble du projet est détaillé dans un article scientifique structuré (m
 
 [Consulter le manuscrit (PDF)](../../assets/pdf/Adaptive_Deep_Learning_for_Automated_Detection_Density_Estimation_and_Species_Identification_of_Bats.pdf){: .btn .btn--info}    
 
----
 
-[Retour aux projets](../projects.md){: .btn .btn--primary}   
+
+

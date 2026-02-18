@@ -2,7 +2,7 @@
 title: "Veille Scientifique Automatisée"
 excerpt: "Outil Python modulaire permettant de collecter, résumer et structurer automatiquement une veille thématique à partir de flux RSS."
 header:
-    image: /assets/images/veille-preview.jpg
+    image: /assets/images/veille-illustration.jpg
     teaser: /assets/images/veille-preview.jpg
 sidebar : 
   - title: "Role"
@@ -60,8 +60,7 @@ L’enjeu était de construire un pipeline simple, robuste et entièrement confi
 
 ## Exemple du rendu
 
-![Exemple de rapport](../assets/images/apercu_veille_auto.png)
-
+![Exemple de rapport](/assets/images/apercu_veille_auto.png)
 
 
 ## Approche
@@ -111,5 +110,3 @@ Le projet complet, avec documentation détaillée et instructions d’installati
 
 [Voir le repository](https://github.com/Apichevin/veille_automatique){: .btn .btn--info}  
 
-
-[Retour aux projets](../projects.md){: .btn .btn--primary}

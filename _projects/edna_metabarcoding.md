@@ -2,7 +2,7 @@
 title: "Détection et quantification de poissons marins par ADN environnemental (ADNe)"
 excerpt: "Analyse de données eDNA pour évaluer la capacité du metabarcoding à détecter et quantifier des assemblages de poissons marins."
 header:
-    image: /assets/images/edna-preview.jpg
+    image: /assets/images/edna-illustration.jpg
     teaser: /assets/images/edna-preview.jpg
 sidebar : 
   - title: "Role"
@@ -170,5 +170,3 @@ Les travaux sur l’ADNe constituent un levier majeur pour :
 
 Ce projet s’inscrit dans la continuité de mon parcours : mobiliser des outils quantitatifs et technologiques au service de la compréhension et de la conservation du vivant.
 
-
-[Retour aux projets](../projects.md){: .btn .btn--primary} 
