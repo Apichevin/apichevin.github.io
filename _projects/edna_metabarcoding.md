@@ -2,8 +2,8 @@
 title: "Détection et quantification de poissons marins par ADN environnemental (ADNe)"
 excerpt: "Analyse de données eDNA pour évaluer la capacité du metabarcoding à détecter et quantifier des assemblages de poissons marins."
 header:
-    image: /assets/images/edna-illustration.jpg
-    teaser: /assets/images/edna-preview.jpg
+    image: /assets/images/edna-preview.jpg 
+    teaser: /assets/images/edna-illustration.jpg
 sidebar : 
   - title: "Role"
     image: http://placehold.it/350x250

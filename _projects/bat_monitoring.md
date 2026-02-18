@@ -6,7 +6,7 @@ header:
     teaser: /assets/images/bat-illustration.png
 sidebar : 
   - title: "Stack"
-    text: "python"
+    #text: "python"
     #image: /assets/images/python-logo.png
     #image_alt: "logo"
     tag: 

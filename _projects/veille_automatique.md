@@ -2,8 +2,8 @@
 title: "Veille Scientifique Automatisée"
 excerpt: "Outil Python modulaire permettant de collecter, résumer et structurer automatiquement une veille thématique à partir de flux RSS."
 header:
-    image: /assets/images/veille-illustration.jpg
-    teaser: /assets/images/veille-preview.jpg
+    image:  /assets/images/veille-preview.jpg
+    teaser: /assets/images/veille-illustration.jpg 
 sidebar : 
   - title: "Role"
     image: http://placehold.it/350x250
