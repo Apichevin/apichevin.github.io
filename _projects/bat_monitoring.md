@@ -1,10 +1,12 @@
 ---
-permalink: /projects/project-page
 title: "Détection automatique de chiroptères par intelligence artificielle"
-layout: splash
+excerpt: "Pipeline multi-modèles : détection, comptage par densité et classification d’espèces à partir d’images réelles."
+header:
+  teaser: /assets/images/bat-preview.jpg
+read_time: true
 ---
 
-![bat preview](../../assets/images/bat-preview.jpg)
+
 
 
 ## Aperçu

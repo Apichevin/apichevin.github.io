@@ -16,6 +16,7 @@
 title: Data Scientist - Écologie & biodiversité
 email: anais.pichevin@gamil.com
 description: >- # this means to ignore newlines until "baseurl:"
+locale: "fr-FR"
 
 #twitter_username: username
 github_username: Apichevin
@@ -85,6 +86,13 @@ footer:
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
 
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
+
+
 defaults:
   # _posts
   - scope:
@@ -104,6 +112,15 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+
 
 category_archive:
   type: liquid
