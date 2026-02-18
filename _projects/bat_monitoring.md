@@ -2,11 +2,17 @@
 title: "Détection automatique de chiroptères par intelligence artificielle"
 excerpt: "Pipeline multi-modèles : détection, comptage par densité et classification d’espèces à partir d’images réelles."
 header:
-  teaser: /assets/images/bat-preview.jpg
+    image: /assets/images/bat-preview.jpg
+    teaser: /assets/images/bat-preview.jpg
+sidebar : 
+  - title: "Role"
+    image: http://placehold.it/350x250
+    image_alt: "logo"
+    text: "Designer, Front-End Developer"
+  - title: "Responsibilities"
+    text: "Reuters try PR stupid commenters should isn't a business model"
 read_time: true
 ---
-
-
 
 
 ## Aperçu

@@ -1,9 +1,18 @@
 ---
 title: "Veille Scientifique Automatisée"
+excerpt: "Outil Python modulaire permettant de collecter, résumer et structurer automatiquement une veille thématique à partir de flux RSS."
+header:
+    image: /assets/images/veille-preview.jpg
+    teaser: /assets/images/veille-preview.jpg
+sidebar : 
+  - title: "Role"
+    image: http://placehold.it/350x250
+    image_alt: "logo"
+    text: "Designer, Front-End Developer"
+  - title: "Responsibilities"
+    text: "Reuters try PR stupid commenters should isn't a business model"
+read_time: true
 ---
-
-![veille preview](../../assets/images/veille-preview.jpg)
-
 
 
 ## Aperçu

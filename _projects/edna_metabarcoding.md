@@ -1,8 +1,18 @@
 ---
 title: "Détection et quantification de poissons marins par ADN environnemental (ADNe)"
+excerpt: "Analyse de données eDNA pour évaluer la capacité du metabarcoding à détecter et quantifier des assemblages de poissons marins."
+header:
+    image: /assets/images/edna-preview.jpg
+    teaser: /assets/images/edna-preview.jpg
+sidebar : 
+  - title: "Role"
+    image: http://placehold.it/350x250
+    image_alt: "logo"
+    text: "Designer, Front-End Developer"
+  - title: "Responsibilities"
+    text: "Reuters try PR stupid commenters should isn't a business model"
+read_time: true
 ---
-
-![edna preview](../../assets/images/edna-preview.jpg)
 
 
 ## Aperçu
