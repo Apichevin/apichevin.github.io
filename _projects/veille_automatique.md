@@ -60,7 +60,7 @@ L’enjeu était de construire un pipeline simple, robuste et entièrement confi
 
 ## Exemple du rendu
 
-![Exemple de rapport](../assets/img/apercu_veille_auto.png)
+![Exemple de rapport](../assets/images/apercu_veille_auto.png)
 
 
 
