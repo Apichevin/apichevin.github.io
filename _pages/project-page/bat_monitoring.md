@@ -1,6 +1,7 @@
 ---
 permalink: /projects/project-page
 title: "Détection automatique de chiroptères par intelligence artificielle"
+layout: splash
 ---
 
 ![bat preview](../../assets/images/bat-preview.jpg)
@@ -10,10 +11,9 @@ title: "Détection automatique de chiroptères par intelligence artificielle"
 
 **Domaine :** Computer Vision appliquée à la conservation  
 **Structure d’accueil :** Air & D   
-**Objectif principal :** Automatiser la détéction et l'identification de chiroptère
+**Objectif principal :** Automatiser la détéction et l'identification de chiroptère 
 **Impact clé :** F1-score global de 0,93 avec sélection adaptative
 
----
 
 ## Stack & compétences clés
 
@@ -45,7 +45,6 @@ Ces mesures consistent notamment à :
 
 Ce suivi repose aujourd’hui en grande partie sur des comptages visuels et des interventions de terrain répétées, mobilisant du temps, des ressources et pouvant générer un dérangement des colonies.
 
----
 
 ## Objectif du projet
 
@@ -76,7 +75,6 @@ Aucun modèle unique ne permet de traiter efficacement l’ensemble de ces situa
 
 Le système repose donc sur une **architecture multi-modèles adaptative**, combinant détection, estimation par densité et classification spécifique.
 
----
 
 ## 1. Détection et segmentation des individus
 
@@ -89,7 +87,6 @@ Performances (validation) :
 
 Ce module est particulièrement performant pour les images à faible ou moyenne densité (1 à 10 individus).
 
----
 
 ## 2. Estimation des effectifs en colonies denses
 
@@ -105,7 +102,6 @@ Performances (validation) :
 
 Ce module corrige les sous-estimations observées dans les scènes à forte densité.
 
----
 
 ## 3. Classification spécifique
 
@@ -117,8 +113,6 @@ Performances globales :
 - Performances élevées pour les espèces les plus représentées  
 
 La gestion du déséquilibre interspécifique a été intégrée dans l’entraînement.
-
----
 
 ## 4. Sélection adaptative de la méthode de comptage
 
@@ -133,7 +127,6 @@ Comparaison :
 
 Cette approche améliore la robustesse globale du système.
 
----
 
 # Apports pour le suivi écologique
 
@@ -147,7 +140,6 @@ Cet outil permet :
 
 L’automatisation partielle du suivi des chiroptères devient ainsi techniquement envisageable dans un cadre opérationnel.
 
----
 
 # Détail technique
 
@@ -158,7 +150,7 @@ L’automatisation partielle du suivi des chiroptères devient ainsi techniqueme
 - 7 espèces cibles + catégorie « non identifiée »  
 - Masques de segmentation annotés manuellement  
 
----
+
 
 ## Architecture
 
@@ -174,19 +166,6 @@ Swin Transformer V2 (recadrage via détection, suppression arrière-plan, Focal 
 ### Méta-modèle  
 Random Forest (sélection dynamique du meilleur estimateur)
 
----
-
-## Compétences mobilisées
-
-- Computer Vision  
-- Deep Learning  
-- Estimation par cartes de densité  
-- Vision Transformers  
-- Gestion du déséquilibre de classes  
-- Conception d’architecture multi-modèles  
-- Évaluation statistique (MAE, RMSE, F1)
-
----
 
 ## Perspectives
 
@@ -195,12 +174,12 @@ Random Forest (sélection dynamique du meilleur estimateur)
 - Développement d’un tableau de bord opérationnel pour bureaux d’études  
 - Génération automatisée de rapports compatibles avec les dossiers réglementaires ERC  
 
----
+
 ## Documentation scientifique
 
 L’ensemble du projet est détaillé dans un article scientifique structuré (méthodologie, métriques, comparaisons de modèles).
 
-[Consulter le manuscrit (PDF)](../assets/pdf/Adaptive_Deep_Learning_for_Automated_Detection_Density_Estimation_and_Species_Identification_of_Bats.pdf){: .btn .btn--info}    
+[Consulter le manuscrit (PDF)](../../assets/pdf/Adaptive_Deep_Learning_for_Automated_Detection_Density_Estimation_and_Species_Identification_of_Bats.pdf){: .btn .btn--info}    
 
 ---
 
