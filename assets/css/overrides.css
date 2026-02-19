@@ -1,0 +1,9 @@
+/* TEST: si ça marche, les titres des cartes deviennent violets et plus petits */
+.archive__item-title {
+  font-size: 1rem !important;
+}
+
+.archive__item-title a {
+  color: purple !important;
+  text-decoration: none !important;
+}
