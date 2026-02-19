@@ -58,7 +58,7 @@ plugins:
 
 author:
   name   : "Anaïs Pichevin"
-  avatar : "/assets/images/logo.jpg"
+  avatar : "/assets/images/profil.jpg"
   bio    : "Data Scientist - Écologie & biodiversité "
   links:
     # - label: "Website"
