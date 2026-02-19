@@ -7,11 +7,11 @@ header:
 layout: single
 show_taxonomy: true
 tags:
-  - Python
-  - computer vision
-  - YOLO
-  - Swin Transformer
-  - Pytorch
+  - Vision par ordinateur
+  - Deep Learning
+  - Architecture adaptative
+  - Suivi écologique
+  - Détection automatique
 sidebar : 
   #- title: "Stack"
     #text: "python"

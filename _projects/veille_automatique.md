@@ -5,11 +5,11 @@ header:
     image:  /assets/images/veille-preview.jpg
     teaser: /assets/images/veille-illustration.jpg 
 tags:
-  - Python
-  - Webscrapping
+  - NLP
   - Automatisation
-  - Transformer
-  - Markdown
+  - Pipeline de données
+  - Web scraping
+  - Génération de rapports
 # sidebar : 
 #   - title: "Role"
 #     image: http://placehold.it/350x250

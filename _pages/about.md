@@ -3,10 +3,10 @@ permalink: /about/
 title: "Présentation"
 ---
 
-Je travaille à l’interface entre écologie et data.
+Mon parcours relie deux univers qui me passionnent : l’écologie et la data.
 
-Ma formation initiale en biodiversité et écologie m’a permis de comprendre les dynamiques des écosystèmes, les contraintes de terrain et les enjeux liés à la protection du vivant. Très vite, l’analyse de données est devenue l’outil central de mon travail : modéliser, tester, comparer, interpréter.
+Titulaire d’un Master en écologie, ma formation m’a permis de comprendre les dynamiques des écosystèmes, les contraintes de terrain et les enjeux liés à la protection du vivant. Très vite, l’analyse de données est devenue mon outil privilégié pour explorer cette complexité.
 
-J’ai choisi d’approfondir cette dimension technique pour maîtriser pleinement les outils de la data science et de l’intelligence artificielle. Aujourd’hui, je conçois des pipelines d’analyse complets, de la structuration des données à la modélisation, avec une attention particulière à la robustesse et à l’adaptation aux contextes réels.
+Je me suis spécialisée en data science afin de maîtriser pleinement les méthodes statistiques et l’intelligence artificielle. Aujourd’hui, je conçois des projets qui vont de la structuration des données à la modélisation, avec une attention particulière à la rigueur, la reproductibilité et l’adaptation aux contextes réels.
 
-Ce qui m’intéresse : mettre la data au service de l'environnement pour mieux comprendre, suivre et protéger les écosystèmes.
+Mon objectif : Mettre la technologie au service du vivant.

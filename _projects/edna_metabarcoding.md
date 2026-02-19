@@ -5,11 +5,11 @@ header:
     image: /assets/images/edna-preview.jpg 
     teaser: /assets/images/edna-illustration.jpg
 tags:
-  - Python
-  - R
-  - eDNA
-  - bio-informatique
-  - modélisation
+  - ADN environnemental
+  - Métabarcoding
+  - Bioinformatique
+  - Modélisation statistique
+  - Écologie marine
 sidebar : 
 #   - title: "Role"
 #     image: http://placehold.it/350x250
@@ -125,21 +125,7 @@ La relation entre quantité d’ADN détectée et abondance réelle s’est rév
 La méthode expérimentale testée pour améliorer la quantification n’a pas apporté les gains attendus, soulignant les limites actuelles de l’ADNe pour estimer précisément les effectifs.
 
 
-
-# Apports du projet
-
-Ce travail m’a permis de :
-
-- analyser de manière critique un outil émergent de suivi écologique,
-- identifier les limites méthodologiques d’un dispositif moléculaire,
-- relier processus écologiques et signaux génétiques,
-- produire une interprétation scientifique nuancée des résultats.
-
-L’ADNe apparaît comme un outil puissant pour la détection de la biodiversité, mais dont l’usage nécessite une compréhension fine des biais techniques et biologiques.
-
-
-
-# Détail méthodologique et compétences mobilisées
+# Détail technique
 
 ## Pipeline bioinformatique
 
@@ -157,14 +143,6 @@ L’ADNe apparaît comme un outil puissant pour la détection de la biodiversit�
 - Corrélations et régressions
 - Analyses multivariées
 
-## Compétences développées
-
-- Bioinformatique appliquée à l’écologie
-- Analyse de données environnementales complexes
-- Modélisation statistique avancée
-- Interprétation écologique de signaux moléculaires
-- Esprit critique vis-à-vis des biais expérimentaux
-
 
 # Perspectives
 
@@ -174,5 +152,4 @@ Les travaux sur l’ADNe constituent un levier majeur pour :
 - l’amélioration des indicateurs d’état écologique,
 - le développement d’outils d’aide à la décision pour la gestion des milieux aquatiques.
 
-Ce projet s’inscrit dans la continuité de mon parcours : mobiliser des outils quantitatifs et technologiques au service de la compréhension et de la conservation du vivant.
 
