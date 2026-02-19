@@ -4,16 +4,22 @@ excerpt: "Outil Python modulaire permettant de collecter, résumer et structurer
 header:
     image:  /assets/images/veille-preview.jpg
     teaser: /assets/images/veille-illustration.jpg 
-sidebar : 
-  - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+tags:
+  - Python
+  - Webscrapping
+  - Automatisation
+  - Transformer
+  - Markdown
+# sidebar : 
+#   - title: "Role"
+#     image: http://placehold.it/350x250
+#     image_alt: "logo"
+#     text: "Designer, Front-End Developer"
+#   - title: "Responsibilities"
+#     text: "Reuters try PR stupid commenters should isn't a business model"
 read_time: true
 ---
-
+{% include project-tags.html %}
 
 ## Aperçu
 

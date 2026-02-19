@@ -8,29 +8,31 @@ layout: single
 show_taxonomy: true
 tags:
   - Python
+  - computer vision
   - YOLO
-  - PyTorch
   - Swin Transformer
+  - Pytorch
 sidebar : 
-  - title: "Stack"
+  #- title: "Stack"
     #text: "python"
     #image: /assets/images/python-logo.png
     #image_alt: "logo"
-    tag: 
-        - python
-        - YOLO
-        - Pytorch
-        - Swin Transformer
+    # tag: 
+    #     - python
+    #     - computer vision
+    #     - YOLO
+    #     - Pytorch
+    #     - Swin Transformer
 read_time: true
 ---
 {% include project-tags.html %}
 
 ## Aperçu
 
-**Domaine :** Computer Vision appliquée à la conservation  
-**Structure d’accueil :** Air & D   
-**Objectif principal :** Automatiser la détéction et l'identification de chiroptère 
-**Impact clé :** F1-score global de 0,93 avec sélection adaptative
+**Domaine :** Computer Vision appliquée à la conservation         
+**Structure d’accueil :** Air & D          
+**Objectif principal :** Automatiser la détéction et l'identification de chiroptère      
+**Impact clé :** F1-score global de 0,93 avec sélection adaptative      
 
 
 ## Stack & compétences clés

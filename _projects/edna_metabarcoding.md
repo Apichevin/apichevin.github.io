@@ -4,16 +4,22 @@ excerpt: "Analyse de données eDNA pour évaluer la capacité du metabarcoding �
 header:
     image: /assets/images/edna-preview.jpg 
     teaser: /assets/images/edna-illustration.jpg
+tags:
+  - Python
+  - R
+  - eDNA
+  - bio-informatique
+  - modélisation
 sidebar : 
-  - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+#   - title: "Role"
+#     image: http://placehold.it/350x250
+#     image_alt: "logo"
+#     text: "Designer, Front-End Developer"
+#   - title: "Responsibilities"
+#     text: "Reuters try PR stupid commenters should isn't a business model"
 read_time: true
 ---
-
+{% include project-tags.html %}
 
 ## Aperçu
 

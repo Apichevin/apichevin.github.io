@@ -52,7 +52,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+  #- jekyll-feed
   - jemoji
   - jekyll-include-cache
 
@@ -70,6 +70,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Apichevin/"
+    - label: "Mail"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:anais.pichevin@gmail.com"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
@@ -82,6 +85,10 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Apichevin/"
+    - label: "Mail"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:anais.pichevin@gmail.com"
+  powered_by: false
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
