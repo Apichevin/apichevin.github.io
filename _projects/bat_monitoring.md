@@ -4,6 +4,13 @@ excerpt: "Pipeline multi-modèles : détection, comptage par densité et classif
 header:
     image: /assets/images/bat-preview.jpg
     teaser: /assets/images/bat-illustration.png
+layout: single
+show_taxonomy: true
+tags:
+  - Python
+  - YOLO
+  - PyTorch
+  - Swin Transformer
 sidebar : 
   - title: "Stack"
     #text: "python"
@@ -14,8 +21,6 @@ sidebar :
         - YOLO
         - Pytorch
         - Swin Transformer
-  - title: "Compétences"
-    text: "Computer vision"
 read_time: true
 ---
 

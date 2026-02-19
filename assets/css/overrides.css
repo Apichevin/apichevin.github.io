@@ -32,3 +32,11 @@
   border-radius: 10px;
   display: block;
 }
+
+/* ===== Cartes plus larges = plus d’espace pour les titres ===== */
+
+@media (min-width: 768px) {
+  .archive .grid__wrapper {
+    grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+  }
+}
