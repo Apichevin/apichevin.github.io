@@ -23,7 +23,7 @@ sidebar :
         - Swin Transformer
 read_time: true
 ---
-
+{% include project-tags.html %}
 
 ## Aperçu
 

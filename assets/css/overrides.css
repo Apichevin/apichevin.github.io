@@ -40,3 +40,20 @@
     grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
   }
 }
+
+
+.project-tags{
+  margin: 0.5rem 0 1.2rem 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
+.project-badge{
+  font-size: 0.75rem;
+  line-height: 1;
+  padding: 0.35rem 0.55rem;
+  border-radius: 999px;
+  background: rgba(0,0,0,0.05);
+  border: 1px solid rgba(0,0,0,0.15);
+}
