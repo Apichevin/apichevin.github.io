@@ -1,24 +1,34 @@
-.archive__item-title {
-  font-size: 1.05rem;
-  line-height: 1.25;
-  margin: 0.35rem 0 0.35rem 0;
+/* ===== TITRES CARTES (robuste) ===== */
+
+/* force la taille même si le thème stylise h2/h3 */
+.archive__item-title,
+.archive__item-title a {
+  font-size: 0.95rem !important;
+  line-height: 1.25 !important;
+  font-weight: 600 !important;
 }
 
+/* clamp sur le lien (souvent l’élément réellement stylé) */
 .archive__item-title a {
-  color: inherit;            /* enlève le bleu */
-  text-decoration: none;     /* pas souligné */
-  font-weight: 650;
+  display: -webkit-box !important;
+  -webkit-box-orient: vertical !important;
+  -webkit-line-clamp: 2 !important;
+  overflow: hidden !important;
+
+  text-decoration: none !important;
+  color: inherit !important;
 }
 
 .archive__item-title a:hover {
-  text-decoration: underline;
+  text-decoration: underline !important;
 }
 
 
+/* ===== IMAGES TEASER (robuste) ===== */
 .archive__item-teaser img {
-  width: 100%;
-  height: 170px;      /* ajuste 150–200 selon ton goût */
-  object-fit: cover;  /* recadrage propre */
+  width: 100% !important;
+  height: 180px !important;     /* ajuste 160–220 */
+  object-fit: cover !important;
   border-radius: 10px;
   display: block;
 }
