@@ -47,14 +47,7 @@ R · Python · Bash · Illumina sequencing
 
 Ce projet a été réalisé à l’INRAE, au sein de l’UMR DECOD (INRAE – IFREMER – Institut Agro Rennes-Angers), dont les travaux portent sur la dynamique et la durabilité des écosystèmes aquatiques, du continuum terre-mer jusqu’à l’océan.
 
-L’unité développe notamment des outils permettant :
-
-- d’évaluer l’état de la biodiversité aquatique,
-- d’anticiper les impacts des pressions anthropiques,
-- d’appuyer les politiques publiques nationales et européennes.
-
 Dans ce contexte, l’ADN environnemental (ADNe) constitue un outil émergent pour le suivi non invasif des communautés de poissons.
-
 
 
 ## Enjeu écologique

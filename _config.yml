@@ -135,3 +135,6 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+projects_tag_archive:
+  type: liquid
+  path: /projects-tags/
