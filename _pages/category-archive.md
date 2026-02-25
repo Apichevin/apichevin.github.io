@@ -1,5 +1,5 @@
 ---
-title: "Posts by Category"
+title: "Projet par catégories"
 layout: categories
 permalink: /categories/
 author_profile: true
