@@ -4,8 +4,6 @@ permalink: /publications/
 layout: single
 ---
 
-Publications auxquelles j’ai contribué (co-autrice).
-
 {% raw %}
 <section style="display:flex; flex-direction:column; gap:1.25rem;">
 
