@@ -35,7 +35,7 @@ SQL · DuckDB · Python · pytest · Git · GitLab
 - Intégration de transformations dans un pipeline Python existant  
 - Conception et adaptation de tests unitaires  
 - Travail collaboratif sur code versionné  
----
+
 
 ## Contexte
 

@@ -11,5 +11,4 @@ Je me suis spécialisée en data science afin de maîtriser pleinement les méth
 
 Mon objectif : Mettre la technologie au service du vivant.
 
-[Mes projets](/_pages/projects.md){: .btn .btn--primary}
-[Mes publications](/_pages/publications.md){: .btn .btn--primary}
+[Mes projets](./projects.md){: .btn .btn--primary}    [Mes publications](./publications.md){: .btn .btn--primary}
