@@ -13,3 +13,7 @@ Titulaire d’un Master en écologie, ma formation m’a permis de comprendre le
 Je me suis spécialisée en data science afin de maîtriser pleinement les méthodes statistiques et l’intelligence artificielle. Aujourd’hui, je conçois des projets qui vont de la structuration des données à la modélisation, avec une attention particulière à la rigueur, la reproductibilité et l’adaptation aux contextes réels.
 
 Mon objectif : Mettre la technologie au service du vivant.
+
+
+[Mes projets](/_pages/projects.md){: .btn .btn--primary}    
+[Mes publications](/_pages/publications.md){: .btn .btn--primary}    

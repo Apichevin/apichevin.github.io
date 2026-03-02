@@ -13,16 +13,7 @@ tags:
   - Suivi écologique
   - Détection automatique
 sidebar : 
-  #- title: "Stack"
-    #text: "python"
-    #image: /assets/images/python-logo.png
-    #image_alt: "logo"
-    # tag: 
-    #     - python
-    #     - computer vision
-    #     - YOLO
-    #     - Pytorch
-    #     - Swin Transformer
+
 read_time: true
 ---
 {% include project-tags.html %}
@@ -47,7 +38,7 @@ Python · PyTorch · YOLO · CSRNet · Swin Transformer · Scikit-learn
 - Gestion du déséquilibre de classes  
 - Évaluation statistique (MAE, RMSE, F1)
 
----
+
 
 ## Contexte écologique et réglementaire
 
@@ -79,7 +70,7 @@ L’outil a pour finalité de :
 
 Il s’agit d’un **outil d’aide au suivi écologique**, destiné à compléter l’expertise naturaliste, en améliorant la traçabilité et l’homogénéité des estimations.
 
----
+
 
 # Fonctionnement général du système
 
@@ -162,15 +153,6 @@ L’automatisation partielle du suivi des chiroptères devient ainsi techniqueme
 
 
 # Détail technique
-
-## Données
-
-- 2 860 images collectées  
-- 2 109 images annotées  
-- 7 espèces cibles + catégorie « non identifiée »  
-- Masques de segmentation annotés manuellement  
-
-
 
 ## Architecture
 

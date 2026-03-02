@@ -49,7 +49,7 @@ layout: single
       <hr style="margin:0.75rem 0; opacity:0.25;">
 
       <p style="margin:0 0 0.6rem 0;">
-        Gouzerh F., Ganem G., <strong>Pichevin A.</strong>, Dormont L., Thomas F. (2022). 
+        Gouzerh F., Ganem G., Pichevin A., Dormont L., Thomas F. (2022). 
         <em>Biochimica et Biophysica Acta – Reviews on Cancer</em>, 188850.
       </p>
 
