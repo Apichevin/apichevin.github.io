@@ -21,27 +21,28 @@ read_time: true
 ---
 {% include project-tags.html %}
 
-## Aperçu
 
-**Domaine :** NLP appliqué à la veille / automatisation de reporting  
-**Type de projet :** Projet personnel  
-**Objectif principal :** produire automatiquement une veille thématique à partir de sources hétérogènes (RSS, blogs, articles techniques)  
-**Impact clé :** génération d’un rapport structuré (Markdown) avec résumés automatiques + envoi régulier (mail)  
+<div class="notice">
+<h4>En bref</h4>
 
+<p><strong>Domaine :</strong> NLP appliqué à la veille scientifique et à l’automatisation de reporting<br>
+<strong>Type de projet :</strong> Projet personnel<br>
+<strong>Objectif principal :</strong> Produire automatiquement une veille thématique à partir de sources hétérogènes (RSS, blogs, articles techniques)<br>
+<strong>Impact clé :</strong> Génération d’un rapport structuré en Markdown avec résumés automatiques et diffusion régulière par mail</p>
 
+<p><strong>Outils principaux :</strong><br>
+Python · pandas · transformers · PyTorch · feedparser · requests · BeautifulSoup · Jinja2 · YAML · Markdown</p>
 
-## Stack & compétences clés
-
-**Outils principaux :**  
-Python · pandas · transformers · PyTorch · feedparser · requests · BeautifulSoup · Jinja2 · YAML · Markdown
-
-**Compétences mobilisées :**  
-- Conception d’un pipeline de collecte et traitement de données texte  
-- Nettoyage, normalisation et déduplication (historique persistant)  
-- Résumé automatique (modèle `transformers`)  
-- Génération de rapports reproductibles (templating Jinja2)  
-- Automatisation (cron / planificateur Windows / GitHub Actions)  
-- Structuration d’un projet Python maintenable (config, logs, séparation des modules)  
+<p><strong>Compétences mobilisées :</strong></p>
+<ul>
+<li>Conception d’un pipeline de collecte et de traitement de données texte</li>
+<li>Nettoyage, normalisation et déduplication avec historique persistant</li>
+<li>Résumé automatique avec <code>transformers</code></li>
+<li>Génération de rapports reproductibles avec Jinja2</li>
+<li>Automatisation du pipeline</li>
+<li>Structuration d’un projet Python maintenable</li>
+</ul>
+</div>
 
 
 ## Contexte

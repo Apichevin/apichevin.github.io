@@ -21,27 +21,28 @@ read_time: true
 ---
 {% include project-tags.html %}
 
-## Aperçu
 
-**Domaine :** Écologie moléculaire & analyse quantitative  
-**Structure d’accueil :** INRAE x IFREMER   
-**Objectif principal :** Évaluer la capacité de l’ADNe à détecter et quantifier des poissons marins  
-**Impact clé :** 66 % des genres détectés en milieu semi-contrôlé
+{% raw %}
+<div class="notice">
+<h4>En bref</h4>
 
+<p><strong>Domaine :</strong> Écologie moléculaire et analyse quantitative<br>
+<strong>Structure d’accueil :</strong> INRAE × IFREMER<br>
+<strong>Objectif principal :</strong> Évaluer la capacité de l’ADNe à détecter et quantifier des poissons marins en milieu semi-contrôlé<br>
+<strong>Impact clé :</strong> 66&nbsp;% des genres détectés par ADNe dans les bassins expérimentaux</p>
 
+<p><strong>Outils principaux :</strong><br>
+R · Python · Bash · Illumina sequencing</p>
 
-## Stack & compétences clés
-
-**Outils principaux :**  
-R · Python · Bash · Illumina sequencing  
-
-**Compétences mobilisées :**  
-- Pipeline bioinformatique reproductible  
-- Modélisation statistique (GLMM, AIC)  
-- Analyse de données écologiques  
-- Identification et analyse de biais méthodologiques  
-
-
+<p><strong>Compétences mobilisées :</strong></p>
+<ul>
+<li>Construction d’un pipeline bioinformatique reproductible</li>
+<li>Modélisation statistique de données écologiques (GLMM, sélection de modèles via AIC)</li>
+<li>Analyse quantitative de données issues de séquençage environnemental</li>
+<li>Identification et analyse de biais méthodologiques liés à l’ADNe</li>
+</ul>
+</div>
+{% endraw %}
 
 ## Contexte scientifique
 

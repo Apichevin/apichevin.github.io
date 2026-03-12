@@ -18,26 +18,25 @@ read_time: true
 ---
 {% include project-tags.html %}
 
-## Aperçu
+<div class="notice">
+  <h4>En bref</h4>
+  <p><strong>Domaine :</strong> Computer Vision appliquée à la conservation<br>
+  <strong>Structure d’accueil :</strong> Air &amp; D<br>
+  <strong>Objectif principal :</strong> Automatiser la détection, le comptage et l’identification de chiroptères<br>
+  <strong>Impact clé :</strong> F1-score global de 0,93 avec sélection adaptative</p>
 
-**Domaine :** Computer Vision appliquée à la conservation         
-**Structure d’accueil :** Air & D          
-**Objectif principal :** Automatiser la détéction et l'identification de chiroptère      
-**Impact clé :** F1-score global de 0,93 avec sélection adaptative      
+  <p><strong>Outils principaux :</strong><br>
+  Python · PyTorch · YOLO · CSRNet · Swin Transformer · Scikit-learn</p>
 
-
-## Stack & compétences clés
-
-**Outils principaux :**  
-Python · PyTorch · YOLO · CSRNet · Swin Transformer · Scikit-learn  
-
-**Compétences mobilisées :**  
-- Conception d’architecture multi-modèles  
-- Vision par ordinateur  
-- Estimation par cartes de densité  
-- Gestion du déséquilibre de classes  
-- Évaluation statistique (MAE, RMSE, F1)
-
+  <p><strong>Compétences mobilisées :</strong></p>
+  <ul>
+    <li>Conception d’architecture multi-modèles</li>
+    <li>Vision par ordinateur</li>
+    <li>Estimation par cartes de densité</li>
+    <li>Gestion du déséquilibre de classes</li>
+    <li>Évaluation statistique des performances</li>
+  </ul>
+</div>
 
 
 ## Contexte écologique et réglementaire
@@ -113,6 +112,12 @@ Performances (validation) :
 
 Ce module corrige les sous-estimations observées dans les scènes à forte densité.
 
+La figure ci-dessous illustre la différence de comportement entre les deux approches.  
+
+![Comparaison des modèles](/assets/images/projects/bat_comparaison_model.jpg)
+*Comparaison entre la détection par objets (YOLO) et l’estimation par cartes de densité (CSRNet) pour différents niveaux de densité.*   
+
+Le modèle de détection fonctionne correctement lorsque les individus sont isolés ou peu nombreux. En revanche, dans les colonies denses où les individus se chevauchent, l’estimation par carte de densité permet d’obtenir une estimation plus stable du nombre total d’individus.     
 
 ## 3. Classification spécifique
 
@@ -124,6 +129,14 @@ Performances globales :
 - Performances élevées pour les espèces les plus représentées  
 
 La gestion du déséquilibre interspécifique a été intégrée dans l’entraînement.
+
+La matrice de confusion ci-dessous permet de visualiser le comportement du modèle selon les espèces.  
+
+![Matrice de confusion](/assets/images/projects/bat_confusion_matrix.png)
+*Matrice de confusion pour les différentes espèces de chauve-souris* 
+
+Les espèces les plus représentées dans le jeu de données sont correctement identifiées, tandis que certaines confusions apparaissent pour les espèces plus rares.
+
 
 ## 4. Sélection adaptative de la méthode de comptage
 

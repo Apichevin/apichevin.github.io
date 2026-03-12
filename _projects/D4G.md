@@ -15,27 +15,31 @@ read_time: true
 
 {% include project-tags.html %}
 
-## Aperçu
+{% raw %}
 
-**Organisation :** Data For Good  
-**Projet :** EurosForDocs  
-**Domaine :** Open Data & transparence en santé  
-**Objectif principal :** Améliorer la qualité et la structuration des données issues de la base Transparence-Santé  
-**Statut :** Contribution bénévole en cours  
+<div class="notice">
+<h4>En bref</h4>
 
+<p><strong>Organisation :</strong> Data For Good<br>
+<strong>Projet :</strong> EurosForDocs<br>
+<strong>Domaine :</strong> Open Data et transparence des relations entre industrie pharmaceutique et professionnels de santé<br>
+<strong>Objectif principal :</strong> Améliorer la qualité, la cohérence et la structuration des données issues de la base publique Transparence-Santé<br>
+<strong>Statut :</strong> Contribution bénévole en cours</p>
 
-## Stack & compétences clés
+<p><strong>Outils principaux :</strong><br>
+SQL · DuckDB · Python · pytest · Git · GitLab</p>
 
-**Outils principaux :**  
-SQL · DuckDB · Python · pytest · Git · GitLab  
+<p><strong>Compétences mobilisées :</strong></p>
+<ul>
+<li>Nettoyage et fiabilisation de données publiques volumineuses</li>
+<li>Écriture et optimisation de requêtes SQL (CTE, jointures, filtrage conditionnel)</li>
+<li>Intégration de transformations dans un pipeline Python existant</li>
+<li>Conception et adaptation de tests unitaires</li>
+<li>Travail collaboratif sur code versionné</li>
+</ul>
+</div>
 
-**Compétences mobilisées :**  
-- Nettoyage et fiabilisation de données publiques volumineuses  
-- Écriture et optimisation de requêtes SQL (CTE, jointures, filtrage conditionnel)  
-- Intégration de transformations dans un pipeline Python existant  
-- Conception et adaptation de tests unitaires  
-- Travail collaboratif sur code versionné  
-
+{% endraw %}
 
 ## Contexte
 
