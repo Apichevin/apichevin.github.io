@@ -63,17 +63,6 @@ Je contribue à l’amélioration continue du pipeline de traitement des donnée
 Je participe également aux réunions techniques hebdomadaires avec l’équipe de contributeurs.
 
 
-
-## Exemple d’intervention
-
-Dans le cadre d’un ticket récent, j’ai développé une règle permettant d’identifier et supprimer les institutions dont les identifiants SIREN n’étaient pas présents dans la base de référence officielle.
-
-Cette contribution a impliqué :
-
-- écrire une requête SQL pour identifier et supprimer les entrées d’institutions avec des identifiants SIREN non valides     
-- l’intégrer dans le pipeline Python d’agrégation des données   
-- ajouter un test unitaire associé pour assurer la robustesse de cette transformation.    
-
 ## Apport personnel
 
 Ce projet me permet d’évoluer dans un environnement proche des conditions professionnelles :
@@ -85,3 +74,5 @@ Ce projet me permet d’évoluer dans un environnement proche des conditions pro
 - contribution à un projet à impact sociétal.
 
 Je poursuis actuellement mon engagement au sein de l’équipe.
+
+[Voir le repository](https://gitlab.com/eurosfordocs/ts-v2){: .btn .btn--info}  
